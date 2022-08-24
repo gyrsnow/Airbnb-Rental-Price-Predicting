@@ -2,7 +2,7 @@
 
 Kaggle competition on Airbnb New Listing Price Prediction (R)
 
-# Overview
+## Overview
 The inner-course project required us to compete with about 500 students from Columbia University. My model scored predicting accuracy RMSE 61.61 and compared to the default model accuracy increased by 54%.
 
 ## Description
